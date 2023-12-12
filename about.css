@@ -1,0 +1,42 @@
+/* Add your custom styles here */
+body {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: 900;
+     /* Adjusted for the fixed navbar */
+}
+
+.hero {
+    background-color: #f4f4f4;
+    padding: 100px 0;
+}
+
+/* Add more styles as needed */
+.head{
+    margin-top: 1rem;
+}
+
+.about{
+    align-items: center;
+}
+
+span{
+    color: blue;
+    text-decoration: underline;
+    
+}
+
+
+
+.hobbies{
+    margin: 1rem;
+    
+}
+
+
+footer {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    margin-top: 2rem;
+    padding: 10px 0;
+}
